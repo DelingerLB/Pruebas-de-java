@@ -65,4 +65,7 @@ public class Borrador6Ventanas {
         edad=act-nac;
         JOptionPane.showMessageDialog(null,"TU EDAD ES "+edad,"AVISO",1);
     }
+    /**
+    yCARDENAS@OUTLOOK.COM
+    **/
 }
